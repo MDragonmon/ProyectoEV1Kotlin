@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">letsGoGambling</string>
+    <string name="higher">Higher</string>
+    <string name="lower">Lower</string>
+    <string name="save">Fold</string>
+    <string name="score">Current Score: %s</string>
+    <string name="safeScore">Max Score: %s</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+</resources>
